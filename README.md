@@ -27,19 +27,18 @@ A basic GitHub repository example for Call for Code submissions and those projec
 
 ### What's the problem?
 
-Part of the World Health Organization's guidance on limiting further spread of COVID-19 is to practice social distancing. As a result, schools in most affected areas are taking precautionary measures by closing their facilities. With school-aged children at home for an indeterminate amount of time,  keeping them engaged, entertained, and on top of their education is important.
+Deaths of hundreds of poor and needy due to hunger; especially the migrants.
 
 ### How can technology help?
 
 Schools and teachers can continue to engage with their students through virtual classrooms, and even create interactive spaces for classes. As parents face a new situation where they may need to homeschool their children, finding appropriate online resources is important as well.
 
 ### The idea
-
-It's imperative that learning and creating can continue when educational institutions have to shift the way they teach in times of crises, such as the COVID-19 pandemic. Providing a set of open source tools, backed by IBM Cloud and Watson Services, will enable educators to more easily make content available for their students.
+We plan to develop a mobile app that can help in providing food to all the needy people, Especially the migrants along with people in quarantine and containment zones. The app will have a very simple procedure wherein both the donors and the corona volunteers will have to register on the app. The donors can then upload the list of items that they are willing to donate. The app will identify the location of the migrants through the volunteers and inform the nearby donors about their requests for food. The donors can deliver the food to the volunteers for which they can contact them either directly or through the app. The volunteers will then take the food to the needy. 
 
 ## Demo video
 
-[![Watch the video](https://github.com/Code-and-Response/Liquid-Prep/blob/master/images/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
+[![Watch the video](https://github.com/Code-and-Response/Liquid-Prep/blob/master/images/IBM-interview-video-image.png)](https://youtu.be/DdcYOnDTofM.)
 
 ## The architecture
 
