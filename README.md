@@ -38,7 +38,7 @@ We plan to develop a mobile app that can help in providing food to all the needy
 
 ## Demo video
 
-[![Watch the video](https://github.com/Code-and-Response/Liquid-Prep/blob/master/images/IBM-interview-video-image.png)](https://youtu.be/DdcYOnDTofM.)
+[![Watch the video](https://github.com/Code-and-Response/Liquid-Prep/blob/master/images/IBM-interview-video-image.png)](https://youtu.be/DdcYOnDTofM)
 
 ## The architecture
 
@@ -125,11 +125,10 @@ You can find a running system to test at [callforcode.mybluemix.net](http://call
 ## Built with
 
 * [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
-* [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The compute platform for handing logic
+* [IBM Watson Assistant](https://cloud.ibm.com/catalog?search=watson%20assistant#search_results) - The compute platform for handing logic
 * [IBM API Connect](https://cloud.ibm.com/catalog?search=api%20connect#search_results) - The web framework used
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Xcode](https://developer.apple.com/xcode/) - The web framework used
+* [HERE](https://developer.here.com/documentation/authentication/dev_guide/topics/api-key-credentials.html) - Dependency management
 
 ## Contributing
 
